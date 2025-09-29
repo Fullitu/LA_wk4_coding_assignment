@@ -1,1 +1,1 @@
-# LA_wk5_coding_assignment
+Assignment source code of group 7
